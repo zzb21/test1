@@ -10,3 +10,7 @@ dev dev
 dev2 dev2
 dev22222212345
 dev222222
+<<<<<<< Updated upstream
+=======
+dev22222212
+>>>>>>> Stashed changes
