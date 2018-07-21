@@ -2,4 +2,6 @@
 commit master
 add dev
 update dev
+merge and commit master
+
 
